@@ -1,0 +1,1000 @@
+product_id,manufacturer,modele,price
+1,Yezz,Yezz Andy C5VP,20273
+2,ZTE,ZTE X760,8388
+3,Ulefone,Ulefone Armor 2,33836
+4,Vodafone,Vodafone Smart E8,37738
+5,Yezz,Yezz Exclusive Z10,30759
+6,BLU,BLU Studio Pro,7156
+7,Nokia,Nokia 7100 Supernova,14600
+8,BenQ-Siemens,BenQ-Siemens M81,183
+9,Lenovo,Lenovo A606,26957
+10,Sony,Sony Ericsson Z250,17204
+11,Oppo,Oppo R1001 Joy,32238
+12,Nokia,Nokia 215,38742
+13,BlackBerry,BlackBerry Style 9670,31406
+14,Philips,Philips 859,11843
+15,alcatel,alcatel Pop 7S,38698
+16,Yezz,Yezz Bono 3G YZ700,25537
+17,alcatel,alcatel Pixi 3 (5.5) LTE,21687
+18,Spice,Spice Stellar 439 (Mi-439),3695
+19,alcatel,alcatel OT 511,24390
+20,BlackBerry,BlackBerry DTEK50,21944
+21,Sagem,Sagem my230x,38721
+22,Nokia,Nokia 6250,39099
+23,Micromax,Micromax Ninja A91,38433
+24,alcatel,alcatel Pop S7,19154
+25,O2,O2 Cosmo,6615
+26,Celkon,Celkon C66,8459
+27,Celkon,Celkon A119 Signature HD,7232
+28,Thuraya,Thuraya SG-2520,29867
+29,Samsung,Samsung Z720,8646
+30,Gionee,Gionee Pioneer P2,9721
+31,Samsung,Samsung S7220 Ultra b,6617
+32,Vodafone,Vodafone Smart prime 7,29977
+33,Samsung,Samsung Xcover 271,29757
+34,LG,LG V60 ThinQ 5G,4744
+35,Xiaomi,Xiaomi Mi 2A,31024
+36,Celkon,Celkon C606,11491
+37,Gionee,Gionee Elife E5,37619
+38,Coolpad,Coolpad Note 3 Lite,19342
+39,Motorola,Motorola MOTO ME525,23634
+40,Karbonn,Karbonn Smart Tab 7,33962
+41,Motorola,Motorola XPRT MB612,4670
+42,Lava,Lava Z60,19246
+43,Samsung,Samsung Galaxy J2 (2017),18503
+44,Celkon,Celkon A200,26913
+45,Spice,Spice Mi-1010 Stellar Pad,38234
+46,alcatel,alcatel One Touch Scribe X,847
+47,Samsung,Samsung Z130,32180
+48,Gionee,Gionee Marathon M5 enjoy,27128
+49,Samsung,Samsung Star Deluxe Duos S5292,19177
+50,HP,HP Veer 4G,17913
+51,Samsung,Samsung E2330,5116
+52,Motorola,Motorola A910,5043
+53,Samsung,Samsung Rex 80 S5222R,19444
+54,LG,LG Optimus 2X SU660,6060
+55,Celkon,Celkon C366,20849
+56,Vertu,Vertu Ascent,16125
+57,Nokia,Nokia 6500 slide,15804
+58,Sony,Sony Ericsson WT18i,10894
+59,Chea,Chea 328,14065
+60,Samsung,Samsung C3590,24137
+61,Lenovo,Lenovo Z5,24854
+62,Oppo,Oppo F3 Plus,17298
+63,Maxwest,Maxwest Nitro 5,32657
+64,Samsung,Samsung M140,21507
+65,LG,LG KG130,31872
+66,Ericsson,Ericsson SH 888,5597
+67,Apple,Apple iPad 2 CDMA,15786
+68,Samsung,Samsung I9505 Galaxy S4,8016
+69,Philips,Philips F515,33387
+70,Celkon,Celkon C225,30225
+71,Energizer,Energizer Hardcase H10,747
+72,Yezz,Yezz Andy AZ4.5,24020
+73,Mitac,Mitac MIO 8870,29209
+74,i-mate,i-mate SP4m,39003
+75,WND,WND Wind DUO 2000,38087
+76,BLU,BLU Life Play Mini,15810
+77,Plum,Plum Might LTE,2312
+78,Wiko,Wiko Highway 4G,21741
+79,Amoi,Amoi M650,34961
+80,Philips,Philips 330,15791
+81,Gionee,Gionee Gpad G1,10434
+82,Huawei,Huawei Y5 (2017),17820
+83,Samsung,Samsung T219,16106
+84,Samsung,Samsung SGH-810,11542
+85,Plum,Plum Optimax 10,26549
+86,Huawei,Huawei Mate 40 Pro+,31349
+87,Amoi,Amoi H801,27379
+88,Spice,Spice KT-5353,15691
+89,Huawei,Huawei P40 Pro+,31467
+90,Honor,Honor View 20,2659
+91,Samsung,Samsung T819,38354
+92,Micromax,Micromax A113 Canvas Ego,26267
+93,Lenovo,Lenovo Phab,23983
+94,Ericsson,Ericsson T66,2481
+95,Philips,Philips 588,30208
+96,T-Mobile,T-Mobile Dash,2495
+97,Celkon,Celkon C820,24799
+98,Sagem,Sagem MY X5-2,8937
+99,Samsung,Samsung A867 Eternity,31524
+100,HTC,HTC Desire 530,31565
+101,alcatel,alcatel OT-300,25226
+102,Sony,Sony Xperia P,38949
+103,Nokia,Nokia 6810,22895
+104,Nokia,Nokia 3110 Evolve,5312
+105,Motorola,Motorola Quench XT3 XT502,27686
+106,Orange,Orange Hiro,22429
+107,BLU,BLU Studio Selfie LTE,38793
+108,Samsung,Samsung Gear S,18487
+109,vivo,vivo Y3 (4GB+64GB),5681
+110,Allview,Allview P3 AllDro,27860
+111,Motorola,Motorola Moto E Dual SIM,13263
+112,Mitsubishi,Mitsubishi Trium fx,5651
+113,Realme,Realme C17,13057
+114,Microsoft,Microsoft Kin One,15593
+115,Panasonic,Panasonic Eluga A3,32419
+116,Nokia,Nokia 1209,5962
+117,O2,O2 X4,15651
+118,Micromax,Micromax Canvas 1 2018,15187
+119,Bird,Bird S698,15257
+120,Celkon,Celkon C66+,4167
+121,Karbonn,Karbonn A27 Retina,36996
+122,HTC,HTC DROID Incredible 4G LTE,6542
+123,Samsung,Samsung R220,38702
+124,Lava,Lava Iris X1,3744
+125,Lenovo,Lenovo A5860,13679
+126,ZTE,ZTE S213,19940
+127,Ericsson,Ericsson GH 337,14065
+128,Siemens,Siemens AX75,9835
+129,Micromax,Micromax Canvas Spark 2 Plus Q350,14986
+130,Samsung,Samsung i750,34039
+131,Xiaomi,Xiaomi Mi 4 LTE,25929
+132,Sagem,Sagem my721x,397
+133,Meizu,Meizu M5 Note,35720
+134,Vodafone,Vodafone Smart first 7,21936
+135,alcatel,alcatel Pixi 7,21466
+136,Samsung,Samsung A711,12733
+137,Celkon,Celkon C70,9838
+138,LG,LG G8000,32495
+139,Samsung,Samsung Galaxy J7 Prime,21620
+140,Nokia,Nokia 6600 fold,5595
+141,HTC,HTC 7 Surround,34124
+142,Pantech,Pantech Breakout,23033
+143,Nokia,Nokia 105 (2019),10520
+144,Samsung,Samsung R360 Messenger Touch,27111
+145,Celkon,Celkon C367,36993
+146,Motorola,Motorola Moto G8,2487
+147,HTC,HTC J,27342
+148,Celkon,Celkon C348+,1867
+149,XOLO,XOLO LT900,1192
+150,Ulefone,Ulefone T2,19481
+151,Sony,Sony Ericsson Xperia ray,34816
+152,Tecno,Tecno Spark 5,4245
+153,Asus,Asus Zenfone 5 A501CG (2015),9244
+154,BLU,BLU Studio G HD LTE,37008
+155,Huawei,Huawei Ascend P1 LTE,21440
+156,Samsung,Samsung A117,12887
+157,BlackBerry,BlackBerry Curve 3G 9330,36859
+158,Oppo,Oppo Mirror 5,39196
+159,VK,VK Mobile VK200,30110
+160,ZTE,ZTE Axon 7 Max,39721
+161,Motorola,Motorola A3000,17502
+162,Karbonn,Karbonn K36+ Jumbo Mini,29533
+163,BLU,BLU C5 2019,26750
+164,Panasonic,Panasonic Eluga I3,38187
+165,BlackBerry,BlackBerry 4G LTE Playbook,34705
+166,Celkon,Celkon C356,2134
+167,Xiaomi,Xiaomi Mi 10 Lite Zoom,25367
+168,HTC,HTC First,7900
+169,Samsung,Samsung Z700,5062
+170,Allview,Allview Viva H1001 LTE,1959
+171,Sony,Sony Ericsson Xperia X10 mini,15168
+172,Amoi,Amoi WMA8508,8155
+173,alcatel,alcatel OT-E260,18767
+174,BenQ,BenQ S670C,34983
+175,Amoi,Amoi A310,23017
+176,Wiko,Wiko View,26938
+177,Philips,Philips S309,3116
+178,ZTE,ZTE Star 1,9821
+179,LG,LG Optimus One P500,34239
+180,alcatel,alcatel 1T 7,28750
+181,Yezz,Yezz Moda YZ600,38278
+182,Xiaomi,Xiaomi Black Shark 3,31978
+183,HTC,HTC 7 Mozart,5494
+184,QMobile,QMobile Noir X600,20337
+185,Huawei,Huawei Ascend Mate7 Monarch,5050
+186,Samsung,Samsung Galaxy M11,27701
+187,LG,LG GB130,18652
+188,Ericsson,Ericsson T65,20556
+189,BenQ-Siemens,BenQ-Siemens SL80,35422
+190,Samsung,Samsung Galaxy S5 LTE-A G906S,18542
+191,Asus,Asus P835,997
+192,Asus,Asus V80,11392
+193,Gionee,Gionee S6s,39935
+194,Samsung,Samsung E1085T,12631
+195,Motorola,Motorola RAZR i XT890,18906
+196,verykool,verykool s135,37993
+197,Spice,Spice Mi-495 Stellar Virtuoso,33027
+198,Philips,Philips X516,2274
+199,Gigabyte,Gigabyte GSmart Roma RX,18580
+200,Xiaomi,Xiaomi Mi Max,25154
+201,NIU,NIU Niutek 3.5B,21458
+202,Nokia,Nokia N8,35309
+203,Huawei,Huawei Watch GT,6816
+204,Micromax,Micromax X335,38557
+205,verykool,verykool s5036 Apollo,36624
+206,Siemens,Siemens U10,35655
+207,Micromax,Micromax X291,25792
+208,BLU,BLU Ultra,11095
+209,Samsung,Samsung Galaxy J3 (2017),24996
+210,Micromax,Micromax M2,11049
+211,Samsung,Samsung Wave M S7250,3785
+212,Philips,Philips X333,20169
+213,Micromax,Micromax Canvas Spark 2 Q334,2633
+214,VK,VK Mobile VK610,38115
+215,Motorola,Motorola Moto G7 Play,31084
+216,Gigabyte,Gigabyte GSmart G1310,33077
+217,Asus,Asus Zenfone 6 ZS630KL,8967
+218,XOLO,XOLO Q700,25812
+219,Ulefone,Ulefone T2 Pro,35158
+220,Samsung,Samsung C3300K Champ,18515
+221,Motorola,Motorola V303,24272
+222,Panasonic,Panasonic X400,20552
+223,Huawei,Huawei nova 6 SE,22476
+224,alcatel,alcatel OT-203,27859
+225,Maxwest,Maxwest Orbit 3000,17719
+226,LG,LG Optimus L1 II E410,14050
+227,alcatel,alcatel OT-808,8830
+228,Philips,Philips F610,6142
+229,Motorola,Motorola RAZR V MT887,30759
+230,LG,LG G7030,38378
+231,Philips,Philips S890,30450
+232,LG,LG EGO T500,7436
+233,Asus,Asus Zenfone Selfie ZD551KL,32996
+234,alcatel,alcatel OT-209,16112
+235,Emporia,Emporia Glam,12719
+236,LG,LG Optimus Sol E730,31659
+237,Wiko,Wiko Upulse,15530
+238,alcatel,alcatel OT-C701,4168
+239,Sony,Sony Ericsson Z770,22416
+240,Plum,Plum Capacity,30146
+241,LG,LG GD550 Pure,21272
+242,BLU,BLU Dash X Plus LTE,26282
+243,Siemens,Siemens C35,26233
+244,Celkon,Celkon Q470,29787
+245,Meizu,Meizu Note 8,26623
+246,Sony,Sony Ericsson W380,9705
+247,Micromax,Micromax Funbook 3G P560,30530
+248,Samsung,Samsung Z110,18637
+249,VK,VK Mobile VK2000,2793
+250,Siemens,Siemens A60,3092
+251,alcatel,alcatel Flash Plus,6552
+252,Huawei,Huawei U3300,16355
+253,alcatel,alcatel OT-668,32785
+254,Realme,Realme 3i,11969
+255,Sharp,Sharp GX1,8952
+256,Apple,Apple Watch Edition Series 3,932
+257,Honor,Honor View30,1542
+258,Lenovo,Lenovo S5000,8703
+259,Pantech,Pantech PG-3600,31119
+260,Siemens,Siemens C28,2437
+261,ZTE,ZTE Grand X2 In,5060
+262,Gigabyte,Gigabyte GSmart Mika M2,19286
+263,Huawei,Huawei MediaPad T1 10,38713
+264,Motorola,Motorola DROID BIONIC XT865,28148
+265,Micromax,Micromax Q5 fb,30687
+266,Spice,Spice S-6005,31727
+267,Gionee,Gionee A1 Lite,17558
+268,Nokia,Nokia N90,16617
+269,i-mobile,i-mobile 520,33894
+270,Plum,Plum Might Pro,1954
+271,BlackBerry,BlackBerry 6720,20917
+272,QMobile,QMobile Noir Z3,23272
+273,alcatel,alcatel Pop Icon,26461
+274,verykool,verykool s470,9547
+275,LG,LG Nitro HD,8996
+276,verykool,verykool i650,28790
+277,alcatel,alcatel Pop C2,14070
+278,Motorola,Motorola Moto M,29830
+279,vivo,vivo Y93s,39957
+280,HP,HP iPAQ h6320,13701
+281,Oppo,Oppo A92s,11911
+282,Samsung,Samsung C3200 Monte Bar,31944
+283,Samsung,Samsung E2252,28254
+284,Huawei,Huawei Summit,25937
+285,Tecno,Tecno Camon 16,31801
+286,BLU,BLU Neo X Mini,28250
+287,Mitsubishi,Mitsubishi M350,13051
+288,Huawei,Huawei Enjoy 20 Plus 5G,23064
+289,Toshiba,Toshiba G910 / G920,34767
+290,Samsung,Samsung Galaxy J1,11222
+291,Pantech,Pantech Vega Xpress IM-A720L,22052
+292,vivo,vivo Y97,5652
+293,Sewon,Sewon SGD-101,28745
+294,Huawei,Huawei G7 Plus,17232
+295,BLU,BLU Diva,15681
+296,HTC,HTC Desire 816G dual sim,4482
+297,Prestigio,Prestigio MultiPad 2 Ultra Duo 8.0,17706
+298,alcatel,alcatel Tetra,2846
+299,Philips,Philips 766,3738
+300,alcatel,alcatel OT-595,407
+301,Samsung,Samsung Z105,26043
+302,Celkon,Celkon A40,8227
+303,Sony,Sony Ericsson Xperia Arc,14359
+304,Samsung,Samsung Galaxy Note20 Ultra 5G,8162
+305,Asus,Asus P550,24225
+306,Samsung,Samsung S7710 Galaxy Xcover 2,24020
+307,Motorola,Motorola PRO+,38273
+308,Philips,Philips X710,39232
+309,Micromax,Micromax Canvas Selfie A255,16586
+310,Micromax,Micromax Bolt A35,11184
+311,Qtek,Qtek S110,38859
+312,HTC,HTC One A9s,16797
+313,alcatel,alcatel OT-E221,4667
+314,Nokia,Nokia 6263,7894
+315,Gigabyte,Gigabyte GSmart GS202,38460
+316,Philips,Philips X605,5647
+317,Karbonn,Karbonn Smart Tab2,31085
+318,Siemens,Siemens M75,15814
+319,Maxwest,Maxwest MX-110,12928
+320,ZTE,ZTE Blade V10,32166
+321,Realme,Realme 1,29790
+322,Samsung,Samsung M850 Instinct HD,22712
+323,Siemens,Siemens C35i,2488
+324,Oppo,Oppo Find X Lamborghini,2534
+325,Pantech,Pantech Q80,5242
+326,Sagem,Sagem MY X-2,1375
+327,Philips,Philips 659,5146
+328,Energizer,Energizer Energy E10,34119
+329,Philips,Philips Xenium X501,32392
+330,HTC,HTC Desire,3928
+331,Microsoft,Microsoft Lumia 950 XL,5881
+332,Xiaomi,Xiaomi Mi 9 SE,11265
+333,Samsung,Samsung P7500 Galaxy Tab 10.1 3G,18648
+334,Motorola,Motorola L6,36648
+335,Oppo,Oppo Find X,16431
+336,HTC,HTC Desire S,12408
+337,Microsoft,Microsoft Lumia 950 Dual SIM,18371
+338,alcatel,alcatel Fire 7,13270
+339,Xiaomi,Xiaomi Mi 2,27270
+340,Samsung,Samsung Galaxy Tab E 9.6,30572
+341,Philips,Philips D833,19564
+342,Motorola,Motorola Moto Z2 Force,29316
+343,LG,LG K30 (2019),35916
+344,BLU,BLU C4,19633
+345,Micromax,Micromax A70,21421
+346,alcatel,alcatel Idol 5,19950
+347,Allview,Allview X5 Soul,37781
+348,Spice,Spice Mi-438 Stellar Glide,36218
+349,Amoi,Amoi H8,37498
+350,Huawei,Huawei MediaPad M5 lite,5960
+351,HTC,HTC One ME,16596
+352,Lava,Lava Iris 400s,16712
+353,Yezz,Yezz Andy A4E,3079
+354,Huawei,Huawei P8lite ALE-L04,472
+355,XOLO,XOLO Q500s IPS,34911
+356,VK,VK Mobile VK1000,23693
+357,Samsung,Samsung i750,26814
+358,alcatel,alcatel OT-E227,33933
+359,alcatel,alcatel OT-C555,6732
+360,Archos,Archos Diamond,33435
+361,Lenovo,Lenovo S720,2635
+362,LG,LG Stylo 2,16013
+363,Samsung,Samsung B2700,3243
+364,Samsung,Samsung i640,1823
+365,Asus,Asus Transformer Book Trio,28171
+366,Maxon,Maxon MX-6804,8949
+367,Vertu,Vertu Ascent Ti Damascus Steel,10271
+368,Asus,Asus Zenfone 4 Max Plus ZC554KL,13671
+369,i-mate,i-mate JAMA 201,10309
+370,Sony,Sony Xperia L3,3063
+371,Panasonic,Panasonic T45,25364
+372,LG,LG T375 Cookie Smart,11895
+373,Microsoft,Microsoft Lumia 640 XL Dual SIM,6685
+374,Celkon,Celkon C360,6094
+375,Motorola,Motorola V191,27789
+376,Siemens,Siemens SF65,35435
+377,Nokia,Nokia 101,10824
+378,LG,LG GD330,10716
+379,Asus,Asus Zenfone 5 Lite ZC600KL,16829
+380,Asus,Asus Zenfone 7 Pro,7052
+381,HTC,HTC P4350,26640
+382,verykool,verykool s354,32990
+383,Gionee,Gionee Ctrl V3,38138
+384,Allview,Allview Simply S5,29633
+385,Maxon,Maxon MX-7830,5713
+386,Motorola,Motorola P30,21316
+387,Sharp,Sharp 940SH,22720
+388,vivo,vivo X6S,14201
+389,TCL,TCL 10 TabMid,33506
+390,Huawei,Huawei Ascend P6 S,29209
+391,Panasonic,Panasonic KX-TU311,39365
+392,Nokia,Nokia 8800 Sirocco,22060
+393,BlackBerry,BlackBerry Porsche Design P'9531,18164
+394,Motorola,Motorola RAZR XT910,4438
+395,BLU,BLU G90,20648
+396,Icemobile,Icemobile Apollo,166
+397,Sagem,Sagem MY C-5w,8037
+398,vivo,vivo Y81i,35702
+399,Karbonn,Karbonn A27 Retina,31543
+400,Allview,Allview Wi8G,15605
+401,Infinix,Infinix Hot 8 Lite,34866
+402,LG,LG KE600,27410
+403,Lenovo,Lenovo A390,25106
+404,Allview,Allview Start M7,22541
+405,Nokia,Nokia 3108,9839
+406,HTC,HTC One A9s,9936
+407,Acer,Acer beTouch E120,27421
+408,Philips,Philips Xenium 9@9g,30677
+409,BLU,BLU Samba TV,93
+410,Nokia,Nokia Lumia 928,1722
+411,Oppo,Oppo F7 Youth,7677
+412,T-Mobile,T-Mobile SpringBoard,39933
+413,Sony,Sony Ericsson WT18i,29573
+414,Infinix,Infinix Zero 6 Pro,13212
+415,Microsoft,Microsoft Lumia 535 Dual SIM,24185
+416,Motorola,Motorola C200,15960
+417,Microsoft,Microsoft Lumia 640 LTE,21103
+418,LG,LG Velvet 5G UW,33724
+419,Asus,Asus P535,24777
+420,Celkon,Celkon Q405,22622
+421,Micromax,Micromax X222,9876
+422,verykool,verykool s5017 Dorado,21492
+423,Sagem,Sagem my521x,26629
+424,Mitac,Mitac MIO Leap K1,11416
+425,alcatel,alcatel Pop 3 (5),19219
+426,Celkon,Celkon C227,19134
+427,HTC,HTC One M8 Prime,29925
+428,Philips,Philips X623,33382
+429,verykool,verykool s5526 Alpha,20782
+430,Nokia,Nokia 7100 Supernova,32383
+431,BLU,BLU Touchbook G7,22749
+432,Motorola,Motorola W377,36912
+433,Lava,Lava A72,37653
+434,Micromax,Micromax X250,31206
+435,Nokia,Nokia 3310 3G,33803
+436,Yezz,Yezz Ritmo 2 YZ420,26101
+437,Nokia,Nokia 7360,2131
+438,Cat,Cat S40,10804
+439,Huawei,Huawei G7010,32859
+440,Sony,Sony Ericsson Z500,21930
+441,Motorola,Motorola WX161,17506
+442,Bird,Bird S667,18000
+443,Vodafone,Vodafone 736,23730
+444,HP,HP Slate 7,16608
+445,Telit,Telit t180,31588
+446,Oppo,Oppo Find X2 Neo,13317
+447,Philips,Philips X516,31242
+448,verykool,verykool s732,32879
+449,ZTE,ZTE Avid 4G,15143
+450,Sony,Sony Xperia E1,12947
+451,Xiaomi,Xiaomi Redmi 6A,13392
+452,ZTE,ZTE X760,1905
+453,Wiko,Wiko Ufeel go,3117
+454,XOLO,XOLO 8X-1020,37637
+455,Asus,Asus Transformer Prime TF201,36604
+456,Celkon,Celkon C570,31221
+457,HTC,HTC Hero S,1620
+458,Philips,Philips 868,32866
+459,Vertu,Vertu Ascent Ti Damascus Steel,804
+460,Icemobile,Icemobile Gravity Pro,19459
+461,NEC,NEC N401i,24885
+462,LG,LG C365,36278
+463,Palm,Palm Pixi,11343
+464,Nokia,Nokia 1650,7908
+465,Innostream,Innostream INNO 99,5870
+466,Energizer,Energizer Energy 200,3627
+467,HTC,HTC Jetstream,13672
+468,LG,LG L90 Dual D410,8910
+469,Amazon,Amazon Fire 7 (2017),27574
+470,Sony,Sony Xperia Z3 Tablet Compact,37752
+471,Apple,Apple iPad Pro 11 (2018),11969
+472,Samsung,Samsung Galaxy A60,25959
+473,Lenovo,Lenovo Vibe Z2 Pro,5624
+474,Nokia,Nokia 6021,2274
+475,HTC,HTC Desire 626 (USA),32214
+476,Motorola,Motorola P40,39884
+477,alcatel,alcatel Smart Tab 7,10358
+478,Motorola,Motorola XOOM 2 3G MZ616,16805
+479,Motorola,Motorola PEBL U3,21900
+480,Micromax,Micromax Canvas Tab P650,17831
+481,Spice,Spice Smart Pulse (M-9010),25771
+482,Nokia,Nokia 8.1 Plus,16712
+483,Amoi,Amoi A210,35816
+484,Philips,Philips Savvy DB,14338
+485,Samsung,Samsung R351 Freeform,18443
+486,Nokia,Nokia 5200,5187
+487,ZTE,ZTE R221,18895
+488,Philips,Philips Savvy DB,774
+489,LG,LG KG270,100
+490,Tecno,Tecno Camon 11 Pro,32847
+491,LG,LG G7000,14096
+492,BLU,BLU Studio X10,15223
+493,Sagem,Sagem my721x,34963
+494,Philips,Philips 692,4068
+495,Honor,Honor Pad 5 8,3453
+496,alcatel,alcatel OT-206,39674
+497,Cat,Cat S60,38427
+498,Sagem,Sagem P9522 Porsche,33932
+499,HTC,HTC Snap,19422
+500,Sewon,Sewon SG-2880CS,21359
+501,Wiko,Wiko Sunny4,10614
+502,Celkon,Celkon C44 Duos,30340
+503,Xiaomi,Xiaomi Mi 9X,19740
+504,Celkon,Celkon Q450,12558
+505,Bird,Bird D636,33002
+506,ZTE,ZTE F100,16464
+507,Lava,Lava Iris 405+,27814
+508,Coolpad,Coolpad Cool 2,5484
+509,Honor,Honor 8S 2020,22802
+510,Spice,Spice M-5250 Boss Item,7363
+511,Allview,Allview P9 Energy mini,18716
+512,Samsung,Samsung i900 Omnia,23945
+513,Celkon,Celkon C720,11054
+514,alcatel,alcatel OT-209,26838
+515,Lenovo,Lenovo Vibe K4 Note,11560
+516,BLU,BLU Samba W,2015
+517,HTC,HTC Touch Pro2,15035
+518,BLU,BLU C5 Plus,9023
+519,Google,Google Pixel,31963
+520,Samsung,Samsung E2262,35961
+521,Samsung,Samsung Z560,16978
+522,alcatel,alcatel OT-E801,28284
+523,Prestigio,Prestigio MultiPad 7.0 Prime Duo,27645
+524,Blackview,Blackview A10,17214
+525,verykool,verykool s5528 Cosmo,13257
+527,alcatel,alcatel A7 XL,7120
+528,Sony,Sony Ericsson Z558,965
+529,alcatel,alcatel OT 756,607
+530,Lava,Lava Iris 325 Style,3097
+531,alcatel,alcatel OT-903,22551
+532,Apple,Apple iPhone 4s,11038
+533,Intex,Intex Aqua Xtreme II,33213
+534,Pantech,Pantech PG-1000s,8173
+535,BLU,BLU Tank Xtreme 5.0,31724
+536,Karbonn,Karbonn KC540 Blaze,28510
+537,Motorola,Motorola Moto E,37494
+538,Energizer,Energizer Energy E20,8596
+539,Spice,Spice Stellar 507 (Mi-507),35501
+540,Sony,Sony Tablet P 3G,9556
+541,Motorola,Motorola Motoluxe,7879
+542,Philips,Philips X223,15539
+543,HTC,HTC Desire 626,673
+544,Celkon,Celkon C220,27133
+545,Tecno,Tecno Camon CX Air,2325
+546,LG,LG Watch Urbane W150,31472
+547,Celkon,Celkon C90,23560
+548,vivo,vivo X6Plus,4027
+549,Samsung,Samsung S3550 Shark 3,5243
+550,O2,O2 XDA Zinc,37543
+551,Samsung,Samsung Galaxy A7 (2017),9429
+552,Bird,Bird D736,37371
+553,Allview,Allview E4 Lite,37070
+554,Lava,Lava Z71,38502
+555,Motorola,Motorola RAZR XT910,10037
+556,BLU,BLU Neo X,20929
+557,Haier,Haier U60,8733
+558,Lenovo,Lenovo M10 FHD REL,12936
+559,alcatel,alcatel Pop D1,32468
+560,Celkon,Celkon C7,14434
+561,Samsung,Samsung C3010,34760
+562,BLU,BLU C6L 2020,20890
+563,Archos,Archos 64 Xenon,20730
+564,Micromax,Micromax A92,33424
+565,QMobile,QMobile M800,22880
+566,Infinix,Infinix Hot 7,29880
+567,Huawei,Huawei Y6 Pro,23814
+568,ZTE,ZTE Blade V7 Plus,17158
+569,Sharp,Sharp 934SH,27246
+570,Acer,Acer Stream,38801
+571,alcatel,alcatel OT-E105,24319
+572,vivo,vivo Y83 Pro,36948
+573,Panasonic,Panasonic Eluga Z1 Pro,27026
+574,Nokia,Nokia Lumia 830,38590
+575,Palm,Palm Treo 600,28584
+576,Samsung,Samsung I9300 Galaxy S III,18661
+577,Gionee,Gionee S9,16959
+578,Amoi,Amoi M360,27137
+579,Celkon,Celkon C567,22628
+580,O2,O2 XDA Trion,5039
+581,Micromax,Micromax Bolt Selfie Q424,21730
+582,Apple,Apple iPhone 4 CDMA,20917
+583,Motorola,Motorola C390,29555
+584,VK,VK Mobile VK3100,30101
+585,Gionee,Gionee M7 Power,24632
+586,Samsung,Samsung E1360,11899
+587,LG,LG GD330,24552
+588,Wiko,Wiko View3 Pro,9090
+589,Allview,Allview A10 Plus,36626
+590,verykool,verykool i330 Sunray,36798
+591,Samsung,Samsung Galaxy J7 Nxt,18328
+592,Lenovo,Lenovo IdeaTab S6000F,2571
+593,Sony,Sony Ericsson Z600,20754
+594,Maxwest,Maxwest Gravity 5,6703
+595,alcatel,alcatel A3,30529
+596,Samsung,Samsung Galaxy Tab 4 10.1 (2015),8038
+597,Orange,Orange Malibu,3653
+598,Vodafone,Vodafone Smart V8,24696
+599,Celkon,Celkon i4,9332
+600,LG,LG GD710 Shine II,3926
+601,Micromax,Micromax GC360,25600
+602,Sagem,Sagem my411c,31358
+603,Prestigio,Prestigio MultiPhone 4055 Duo,24266
+604,BQ,BQ Aquaris V,1776
+605,Samsung,Samsung Galaxy Ace Duos I589,26025
+606,Samsung,Samsung Galaxy C7,38895
+607,Motorola,Motorola W7 Active Edition,36712
+608,Lenovo,Lenovo S856,11384
+609,BLU,BLU Studio Pro,12721
+610,Motorola,Motorola Moto E3 Power,15913
+611,Lenovo,Lenovo A5,37796
+612,Icemobile,Icemobile Rainbow II,26269
+613,BlackBerry,BlackBerry KEY2 LE,24385
+614,Oppo,Oppo R815T Clover,26308
+615,Celkon,Celkon A59,16439
+616,Samsung,Samsung P400,11062
+617,Sony,Sony Ericsson G502,9978
+618,QMobile,QMobile Noir X450,39336
+619,Prestigio,Prestigio MultiPhone 5300 Duo,17914
+620,Lava,Lava Iris X5,37998
+621,LG,LG A200,12777
+622,Nokia,Nokia Asha 202,11806
+623,Motorola,Motorola C250,18475
+624,Philips,Philips X518,36659
+625,alcatel,alcatel OT-C717,18886
+626,Sony,Sony Ericsson T303,5015
+627,Samsung,Samsung B200,38951
+628,HTC,HTC Desire 616 dual sim,24531
+629,Micromax,Micromax Canvas Tab P650,5791
+630,Icemobile,Icemobile Gprime Extreme,37467
+631,Samsung,Samsung X630,28556
+632,i-mobile,i-mobile 101,8599
+633,Apple,Apple iPhone 6s,21492
+634,Lenovo,Lenovo IdeaPad K1,10016
+635,alcatel,alcatel OT Club db,14476
+636,BLU,BLU J7L,14953
+637,Yezz,Yezz Moda YZ600,26708
+638,Prestigio,Prestigio MultiPad 7.0 Ultra Duo,38655
+639,Lenovo,Lenovo IdeaTab A3000,4285
+640,Sagem,Sagem my521x,24681
+641,Sony,Sony Ericsson Z750,32625
+642,Samsung,Samsung Gravity Q T289,25175
+643,Asus,Asus Memo Pad 7 ME572C,18406
+644,HP,HP 7 VoiceTab,18283
+645,Nokia,Nokia 5530 XpressMusic,11832
+646,alcatel,alcatel 3x (2018),21872
+647,Toshiba,Toshiba Excite AT200,3781
+648,LG,LG Optimus Mach LU3000,13670
+649,Xiaomi,Xiaomi Redmi K20,6410
+650,Motorola,Motorola C980,4203
+651,Maxwest,Maxwest Vice,24786
+652,Honor,Honor 3C 4G,31742
+653,Toshiba,Toshiba 903T,667
+654,NEC,NEC N341i,18208
+655,Philips,Philips E1500,14255
+656,Samsung,Samsung E620,4367
+657,vivo,vivo X3S,9435
+658,Motorola,Motorola Q 9h,20818
+659,Meizu,Meizu MX3,13025
+660,Xiaomi,Xiaomi Mi 9T Pro,39469
+661,HTC,HTC One M9+,28150
+662,i-mobile,i-mobile 518,9169
+663,HTC,HTC Desire 625,12796
+664,HP,HP Pro Slate 12,21992
+665,Sharp,Sharp GX18,25239
+666,Sony,Sony Ericsson W380,1665
+667,Micromax,Micromax Infinity N12,30473
+668,BenQ,BenQ M300,5606
+669,Samsung,Samsung J165,30042
+670,BlackBerry,BlackBerry Z30,6733
+671,Prestigio,Prestigio MultiPad 2 Pro Duo 8.0 3G,9388
+672,Motorola,Motorola PRO+,20095
+673,Vodafone,Vodafone Smart Tab 7,27367
+674,Oppo,Oppo A77,24990
+675,Sony,Sony Ericsson P1,30756
+676,alcatel,alcatel Fierce 4,9348
+677,Spice,Spice Mi-451 Smartflo Poise,35513
+678,Lenovo,Lenovo K5,10747
+679,i-mobile,i-mobile TV550 Touch,30528
+680,Micromax,Micromax A109 Canvas XL2,10113
+681,HTC,HTC Touch Diamond2,37240
+682,verykool,verykool s3504 Mystic II,29292
+683,Amoi,Amoi A200,29863
+684,Lenovo,Lenovo Yoga Tab 3 10,1716
+685,Microsoft,Microsoft Lumia 430 Dual SIM,28013
+686,Xiaomi,Xiaomi Black Shark 3S,14624
+687,Philips,Philips Xenium X513,23258
+688,vivo,vivo Y51s,28870
+689,Honor,Honor 5X,28420
+690,Gigabyte,Gigabyte GSmart Classic,713
+691,LG,LG C3400,21399
+692,Infinix,Infinix Hot S,12645
+693,Telit,Telit NEO,4664
+694,NEC,NEC N160,23272
+695,Allview,Allview X2 Xtreme,18296
+696,Nokia,Nokia 3128,32638
+697,Lenovo,Lenovo A7000 Turbo,25248
+698,Orange,Orange San Francisco,16905
+699,Motorola,Motorola MC55,36209
+700,Philips,Philips S388,10053
+701,Motorola,Motorola V226,34244
+702,Bosch,Bosch World 718,2586
+703,Allview,Allview E3 Living,707
+704,Samsung,Samsung R860 Caliber,10551
+705,Huawei,Huawei nova 7 Pro 5G,34110
+706,Lenovo,Lenovo C2,12752
+707,XOLO,XOLO A500L,28901
+708,Realme,Realme X50m 5G,35162
+709,Vodafone,Vodafone Smart 4 power,7840
+710,Allview,Allview P8 Energy,10284
+711,Xiaomi,Xiaomi Redmi K20,20904
+712,BenQ-Siemens,BenQ-Siemens EF81,38808
+713,Siemens,Siemens C35i,25946
+714,vivo,vivo X9s,31428
+715,Sagem,Sagem myZ-5,12453
+716,vivo,vivo Y67,29089
+717,Allview,Allview AX3 Party,13942
+718,Samsung,Samsung Galaxy A21,34349
+719,Huawei,Huawei Ascend G6,21144
+720,LG,LG Optimus L5 II Dual E455,9571
+721,Philips,Philips Xenium X530,32649
+722,ZTE,ZTE R228 Dual SIM,21729
+723,Karbonn,Karbonn Titanium Octane Plus,2770
+724,Huawei,Huawei P30,10096
+725,Nokia,Nokia 6282,11486
+726,Samsung,Samsung R360 Freeform II,4218
+727,Prestigio,Prestigio MultiPhone 4500 Duo,10459
+728,Sendo,Sendo X,16663
+729,Panasonic,Panasonic Eluga S,36893
+730,Samsung,Samsung Galaxy Ace S5830I,5264
+731,Icemobile,Icemobile Prime 3.5,14260
+732,Samsung,Samsung Galaxy Tab 10.1 LTE I905,21967
+733,Oppo,Oppo Find,32699
+734,Oppo,Oppo Neo 3,27600
+735,O2,O2 XDA phone,19990
+736,Xiaomi,Xiaomi Redmi Note 9,18593
+737,verykool,verykool s352,11742
+738,Samsung,Samsung Galaxy A32 5G,18609
+739,verykool,verykool R23,19030
+740,Lenovo,Lenovo Tab 4 10 Plus,9127
+741,Razer,Razer Phone 2,13895
+742,Micromax,Micromax A77 Canvas Juice,13624
+743,Micromax,Micromax Canvas Selfie 3 Q460,26012
+744,Allview,Allview P5 Pro,14476
+745,VK,VK Mobile VK610,11069
+746,Samsung,Samsung Conquer 4G,9153
+747,Nokia,Nokia C5 5MP,16328
+748,Sharp,Sharp 770SH,21277
+749,Wiko,Wiko Sunny Max,16936
+750,alcatel,alcatel 1x,32484
+751,Honor,Honor U8860,23655
+752,Qtek,Qtek 8010,25108
+753,alcatel,alcatel OT Pocket,38999
+754,Tecno,Tecno Camon X Pro,20872
+755,HTC,HTC One E9+,21775
+756,Nvidia,Nvidia Shield LTE,2168
+757,LG,LG S365,11163
+758,T-Mobile,T-Mobile Revvlry,31189
+759,Acer,Acer M900,6832
+760,Yezz,Yezz 4.5EL LTE,29504
+761,Yezz,Yezz Andy A5 1GB,18082
+762,alcatel,alcatel OT-363,37281
+763,Celkon,Celkon ARR35,4292
+764,verykool,verykool s450,28450
+765,Huawei,Huawei Mate 30E Pro 5G,17065
+766,LG,LG CF360,11330
+767,Samsung,Samsung Galaxy Tab Active Pro,32007
+768,Infinix,Infinix S5 Pro (48+40),37769
+769,LG,LG Ray,2936
+770,Samsung,Samsung Galaxy S II TV,9701
+771,Plum,Plum Sync 4.0,36447
+772,HTC,HTC Sensation,18880
+773,vivo,vivo X6S Plus,13085
+774,Samsung,Samsung Conquer 4G,9963
+775,Samsung,Samsung Galaxy Note7,9876
+776,ZTE,ZTE Open,30192
+777,Archos,Archos Diamond Plus,37257
+778,Wiko,Wiko Harry,13965
+779,Philips,Philips T3566,22567
+780,BLU,BLU Grand M2,22516
+781,Vodafone,Vodafone 547,30701
+782,Sony,Sony Ericsson Mix Walkman,17113
+783,HTC,HTC One M9s,20930
+784,Micromax,Micromax A45,24479
+785,LG,LG G Stylo,234
+786,Karbonn,Karbonn K65 Buzz,17255
+787,Sony,Sony Xperia Z5 Dual,13098
+788,Samsung,Samsung Galaxy J7 Prime,35292
+789,Samsung,Samsung I9300I Galaxy S3 Neo,9321
+790,Nokia,Nokia C2-05,37042
+791,Lenovo,Lenovo B,26958
+792,Motorola,Motorola RAZR HD XT925,38886
+793,Samsung,Samsung E2510,1166
+794,LG,LG Mach LS860,16260
+795,BlackBerry,BlackBerry Volt,38794
+796,Energizer,Energizer Energy E500,30331
+797,Lava,Lava Z60s,10194
+798,Samsung,Samsung Galaxy A20e,25982
+799,Sony,Sony Ericsson W715,6221
+800,Motorola,Motorola DROID BIONIC XT865,25665
+801,Honor,Honor Magic,34587
+802,Asus,Asus P526,30058
+803,LG,LG G4 Dual,26816
+804,Philips,Philips X1560,573
+805,Meizu,Meizu C9 Pro,12939
+806,Samsung,Samsung Galaxy J2 (2016),310
+807,Asus,Asus M930,34340
+808,Samsung,Samsung R360 Messenger Touch,25766
+809,BLU,BLU TV2Go,11042
+810,XOLO,XOLO Era 2X,22394
+811,Motorola,Motorola Moto E Dual SIM (2nd gen),25472
+812,Plum,Plum Ram 8,13995
+813,Micromax,Micromax X270,12679
+814,Sony,Sony Ericsson C510,36543
+815,Mitsubishi,Mitsubishi M750,38117
+816,LG,LG C199,30948
+817,Kyocera,Kyocera Hydro C5170,18046
+818,Nokia,Nokia 5610 XpressMusic,4127
+819,Samsung,Samsung i770 Saga,3480
+820,i-mate,i-mate 810-F,38294
+821,Tecno,Tecno Spark 3,12119
+822,Celkon,Celkon C7045,10879
+823,Sagem,Sagem MY Z-3,38709
+824,Celkon,Celkon Q5K Power,27746
+825,Infinix,Infinix Smart 5,17455
+826,Gigabyte,Gigabyte GSmart Roma R2,7069
+827,Huawei,Huawei Watch GT 2 Pro,2705
+828,Nokia,Nokia C1-01,718
+829,Sony,Sony Ericsson Windows Phone 7,31501
+830,Samsung,Samsung M930 Transform Ultra,22815
+831,Siemens,Siemens SL10,33412
+832,Motorola,Motorola DROID 3,20048
+833,Apple,Apple Watch Series 6,6205
+834,Nokia,Nokia Asha 230,13477
+835,Eten,Eten glofiish M750,31006
+836,Motorola,Motorola ROKR W6,25026
+837,LG,LG A190,36305
+838,Orange,Orange Malibu,6772
+839,Xiaomi,Xiaomi Redmi Note 4,25593
+840,HTC,HTC 7 Pro,9792
+841,Maxon,Maxon MX-6804,27260
+842,Nokia,Nokia 6620,1897
+843,Samsung,Samsung Galaxy Music S6010,6366
+844,Motorola,Motorola C450,7444
+845,Samsung,Samsung E870,5557
+846,Celkon,Celkon C355,39659
+847,Nokia,Nokia E70,39672
+848,Huawei,Huawei U9000 IDEOS X6,3768
+849,Motorola,Motorola WX288,19415
+850,Yezz,Yezz Andy A4,37243
+851,Pantech,Pantech Q80,11579
+852,Samsung,Samsung X600,27315
+853,HP,HP iPAQ 514,14326
+854,Samsung,Samsung I9505 Galaxy S4,10391
+855,Xiaomi,Xiaomi Redmi Note 9 Pro Max,16472
+856,LG,LG M4330,1370
+857,Motorola,Motorola XOOM 2 MZ615,35919
+858,Maxon,Maxon MX-6814,29959
+859,Yezz,Yezz Billy 4,35198
+860,NEC,NEC e228,3737
+861,Yezz,Yezz Andy 4E LTE,1044
+862,Lava,Lava Iris Fuel 60,1321
+863,alcatel,alcatel Lollipops,4962
+864,Innostream,Innostream INNO 36,20701
+865,Oppo,Oppo A1k,14129
+866,Motorola,Motorola DEFY XT535,27378
+867,Samsung,Samsung T939 Behold 2,92
+868,BLU,BLU Touchbook G7,4819
+869,Motorola,Motorola Moto E Dual SIM,16479
+870,Apple,Apple iPhone 6 Plus,18385
+871,Mitsubishi,Mitsubishi M800,28689
+872,Haier,Haier M80,7444
+873,Huawei,Huawei U3100,6026
+874,Micromax,Micromax X271,728
+875,ZTE,ZTE R221,8101
+876,Samsung,Samsung Z240,33074
+877,Huawei,Huawei Y6 (2017),22980
+878,Tecno,Tecno Spark Go,9374
+879,verykool,verykool s5524 Maverick III Jr.,12465
+880,Acer,Acer Liquid E2,34420
+881,Xiaomi,Xiaomi Mi Note Plus,9552
+882,Celkon,Celkon C102,33803
+883,Sony,Sony Ericsson K330,4242
+884,LG,LG C3380,26138
+885,Samsung,Samsung I929 Galaxy S II Duos,22502
+886,Lenovo,Lenovo Yoga Tab 3 8.0,15879
+887,Motorola,Motorola V3690,1635
+888,LG,LG Nexus 5X,13883
+889,Celkon,Celkon Millennia Xplore,15530
+890,Siemens,Siemens SL65,29367
+891,LG,LG KC780,30675
+892,Philips,Philips 350,12108
+893,alcatel,alcatel Idol 5s (USA),31088
+894,Haier,Haier D6000,31869
+895,verykool,verykool Kolorpad LTE TL8010,39621
+896,Sony,Sony Xperia acro HD SOI12,18190
+897,Sony,Sony Xperia XA2 Plus,15091
+898,Samsung,Samsung Galaxy Mega 2,38515
+899,Plum,Plum Might LTE,3965
+900,Samsung,Samsung Galaxy Tab A 8.0 (2018),18359
+901,Xiaomi,Xiaomi Mi Note 10,35009
+902,Philips,Philips S388,34098
+903,Celkon,Celkon C5,17390
+904,Lenovo,Lenovo A Plus,9211
+905,Xiaomi,Xiaomi Mi Watch Revolve,14978
+906,Samsung,Samsung SGH-2100,13078
+907,Allview,Allview Viva H10 LTE,24530
+908,Nokia,Nokia 6280,10192
+909,HTC,HTC Touch HD,15453
+910,Celkon,Celkon C409,20923
+911,LG,LG Nexus 5,7928
+912,LG,LG Optimus Z,34143
+913,Sagem,Sagem MY X2-2,38960
+914,XOLO,XOLO Q2500,5157
+915,Honor,Honor 8X,10359
+916,alcatel,alcatel OT-I650 SPORT,32464
+917,Acer,Acer beTouch E120,34742
+918,Ericsson,Ericsson SH 888,13075
+919,Huawei,Huawei P30 Pro New Edition,10330
+920,Sony,Sony Xperia Z3+,2558
+921,Eten,Eten glofiish M800,29121
+922,Acer,Acer beTouch E400,21681
+923,Vodafone,Vodafone 710,16009
+924,Philips,Philips Fisio 625,18656
+925,Microsoft,Microsoft Lumia 535,23685
+926,ZTE,ZTE nubia Z18,20710
+927,Lava,Lava Flair P1i,23305
+928,Samsung,Samsung i560,17097
+929,BenQ-Siemens,BenQ-Siemens C81,24505
+930,Apple,Apple iPad 3 Wi-Fi,38550
+931,Tecno,Tecno Phantom 6,10743
+932,alcatel,alcatel OT-595,24439
+933,Micromax,Micromax Canvas Infinity,18705
+934,Motorola,Motorola C250,33483
+935,Xiaomi,Xiaomi Mi 9T,16025
+936,LG,LG L90 Dual D410,19647
+937,Sony,Sony Ericsson K330,2917
+938,Micromax,Micromax A108 Canvas L,39457
+939,Energizer,Energizer Energy E241s,380
+940,Lava,Lava A79,4150
+941,Micromax,Micromax A100,15002
+942,Motorola,Motorola Moto X Force,27508
+943,Gionee,Gionee M12,27686
+944,Samsung,Samsung Galaxy A20,37625
+945,LG,LG Tribute 2,10757
+946,Pantech,Pantech Breeze III,4984
+947,Samsung,Samsung Galaxy Tab E 8.0,13514
+948,Sagem,Sagem RC 750,8032
+949,alcatel,alcatel Evolve 2,25718
+950,Philips,Philips X622,13423
+951,Celkon,Celkon Millennia Hero,17529
+952,Huawei,Huawei Ascend Y550,24842
+953,Micromax,Micromax Canvas Nitro 2 E311,34790
+954,LG,LG Tribute,9601
+955,verykool,verykool i603,35428
+956,Archos,Archos 50 Diamond,29666
+957,Nokia,Nokia 6303i classic,9787
+958,Samsung,Samsung B300,16627
+959,Micromax,Micromax X396,34128
+960,Motorola,Motorola Moto Maxx,38370
+961,Lava,Lava Z25,18608
+962,HTC,HTC One ST,22225
+963,Xiaomi,Xiaomi Black Shark,7461
+964,Samsung,Samsung Galaxy Tab A 8.0 (2019),24665
+965,Lenovo,Lenovo Tab 2 A8-50,35499
+966,Gionee,Gionee K3 Pro,23362
+967,Samsung,Samsung Galaxy Folder2,29899
+968,Motorola,Motorola Moto Maxx,38643
+969,Oppo,Oppo R601,8845
+970,ZTE,ZTE Blade V20,12790
+971,Haier,Haier A600,32602
+972,Mitac,Mitac MIO 8380,1604
+973,vivo,vivo iQOO 7,15845
+974,Panasonic,Panasonic P55 Max,9241
+975,Philips,Philips X603,12766
+976,Samsung,Samsung Ativ Tab P8510,35779
+977,ZTE,ZTE Open II,32525
+978,BlackBerry,BlackBerry Storm2 9550,29832
+979,Micromax,Micromax Unite 4 plus,39771
+980,LG,LG Candy,4656
+981,NEC,NEC N343i,15940
+982,alcatel,alcatel OT-708 One Touch MINI,32094
+983,Nokia,Nokia 107 Dual SIM,689
+984,Samsung,Samsung E100,19812
+985,Lenovo,Lenovo Lemon 3,38275
+986,Lenovo,Lenovo A526,33900
+987,Oppo,Oppo F17 Pro,25169
+988,Samsung,Samsung A817 Solstice II,23337
+989,LG,LG Optimus Mach LU3000,34184
+990,Sagem,Sagem MY X6-2,7257
+991,ZTE,ZTE nubia N1,15609
+992,Philips,Philips Azalis 238,24659
+993,T-Mobile,T-Mobile Tap,4912
+994,Samsung,Samsung E490,33941
+995,Google,Google Pixel 3 XL,7990
+996,Samsung,Samsung U450 Intensity,7246
+997,Philips,Philips S200,27441
+998,Samsung,Samsung Google Nexus 10 P8110,26589
+999,Oppo,Oppo R17,26058
+1000,Celkon,Celkon A1,2171
